@@ -30,5 +30,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samim-mondal-8ab4902a0/)  
 [![Portfolio](https://img.shields.io/badge/-My%20Portfolio-121212?style=flat-square&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-📧 devsamim@example.com
+📧 dev.samim.kolkata@gmail.com
 
